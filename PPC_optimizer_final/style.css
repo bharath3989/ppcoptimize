@@ -1,0 +1,198 @@
+h1,
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section[data-testid="stMain"] {
+
+    background-color: rgba(255, 236, 213, 0.989);
+    border-width: thick;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-top: rgba(161, 113, 113, 0.631);
+}
+
+div[data-testid="stMarkdownContainer"] span.big-font {
+    background-color: rgba(161, 113, 113, 0.631);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: large;
+}
+
+hr {
+    background-color: rgba(161, 113, 113, 0.631);
+}
+
+label[data-testid="stWidgetLabel"] p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+button[data-testid="stBaseButton-secondary"] {
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+section[data-testid="stFileUploaderDropzone"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+div[data-testid="stTextInputRootElement"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+div[role="alert"] {
+    background-color: rgba(252, 240, 225, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+    color: black;
+    font-weight: bolder;
+}
+
+div.st-emotion-cache-abycrm.e6zijwc0 {
+    background-color: rgba(255, 236, 213, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+}
+
+span[data-baseweb="tag"] {
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+
+
+}
+
+span.st-be.st-ct.st-cu.st-cv.st-cw.st-af {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9px;
+
+}
+
+div[data-baseweb="select"] div.st-bc.st-bd.st-b4.st-do.st-c0.st-dp.st-dq {
+    background-color: rgba(255, 236, 213, 0.989);
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+    padding: 8px, 8px, 8px, 8px;
+
+}
+
+div.st-emotion-cache-y4bq5x.ewgb6651 {
+    background-color: rgba(252, 240, 225, 0.989);
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+}
+
+div.st-emotion-cache-y4bq5x.ewgb6651 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgba(161, 113, 113, 0.631);
+    font-weight: bolder;
+    padding: 15px 5px 15px 5px;
+}
+
+div[role="radiogroup"] p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    padding-left: 6px;
+
+}
+
+div[data-testid="stHorizontalBlock"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+
+}
+
+div[data-testid="stTextInputRootElement"] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 800;
+}
+
+
+div[data-testid="stHorizontalBlock"] p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 10px 10px 10px 10px;
+}
+
+div[data-baseweb="slider"] {
+    padding: 10px 10px 10px 10px;
+}
+
+div[data-baseweb="slider"]>div[data-testid="stSliderTickBar"] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    font-weight: bolder;
+}
+
+div.dvn-underlay>canvas {
+
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+
+}
+
+section[data-testid="stSidebar"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    border: thick;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+div[data-testid="stSidebarContent"]>div[data-testid="stSidebarHeader"]>div[data-testid="stSidebarCollapseButton"]>button {
+    font-size: 100px;
+    color: rgba(161, 113, 113, 0.631);
+    font-weight: bolder;
+}
+
+div[data-testid="stSidebarContent"]>div[data-testid="stSidebarHeader"] {
+    font-size: 40px;
+    color: rgba(161, 113, 113, 0.631);
+    font-weight: bolder;
+    border: thick;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+header[data-testid="stHeader"] {
+    background-color: rgba(161, 113, 113, 0.631);
+}
+
+
+div.st-emotion-cache-19ee8pt.eczjsme4>button[data-testid="stBaseButton-headerNoPadding"] {
+
+    font-size: 100px;
+    color: black;
+    font-weight: bolder;
+}
+
+a[data-testid="stSidebarNavLink"] {
+    background-color: rgba(161, 113, 113, 0.631);
+    font-weight: bold;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
