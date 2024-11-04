@@ -1,5 +1,0 @@
-Streamlit
-regex
-pandas
-time
-google
