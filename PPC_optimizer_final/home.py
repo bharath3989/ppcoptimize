@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import time
 import re
+import openpyxl
 
 st.set_page_config(page_title="PPC Optimizer",
                    page_icon="image.png", layout="wide")
